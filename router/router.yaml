@@ -43,7 +43,7 @@ authorization:
   preview_directives: 
     enabled: true
 limits:
-  max_depth: 1
+  max_depth: 2
   max_height: 10
   max_aliases: 3
 
